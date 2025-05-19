@@ -1,0 +1,1 @@
+select customer_number from orders group by customer_number having count(*)>=ALL(select count(*) from orders group by customer_number);
