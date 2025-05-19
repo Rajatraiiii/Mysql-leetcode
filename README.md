@@ -40,13 +40,13 @@ Example:
 Difficulty
 Problems Solved
 
-🟢 Easy  6
+🟢 Easy  9
 
 
-🟡 Medium  7
+🟡 Medium  11
 
 
-🔴 Hard  4
+🔴 Hard  5
 
 
 
